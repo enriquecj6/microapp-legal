@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "rutacoste-viaje",
+  "androidPackage": "com.enriquecj6.rutacoste",
+  "sourceDigest": "859236dbc0fffb3ef9f459e32329a0492b8c657506ef7a0118f9126f85d8efe7",
+  "files": {
+    "index.html": "e1e74f07492900f3dfefddf6e3db88018c10780c913a42243bc270a9a9246c8e",
+    "privacy.html": "d3b1906536ef64025322353d01fb73b31c63a9169117cd603e9205421b3de513",
+    "terms.html": "ea8979bb6d03819778c9e8d0505acb689e32447d1950c8c9749be0bce4df9553",
+    "support.html": "139140427a186b945f132c239a309b49fb0e4f60a4ed2a12e1d0d78b80429280"
+  }
+}
