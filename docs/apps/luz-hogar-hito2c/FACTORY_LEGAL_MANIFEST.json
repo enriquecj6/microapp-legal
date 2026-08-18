@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "luz-hogar-hito2c",
+  "androidPackage": "com.enriquecj6.luzhogarhito2c",
+  "sourceDigest": "192237dd61575fb79aa5df17c92cf581d7b5488d4aa0c95c21ba7ec52442e64a",
+  "files": {
+    "index.html": "e82646e6d816e3b494b76a11dd5aba98cded02a9948fd7d7fb5f3a1882819846",
+    "privacy.html": "189e64cd234e62f68e6fe061ef65d959d2e394cacdb0cf83ee140059d0c655a1",
+    "terms.html": "f45d9022d367b35bba7e233ce333d097c845b58228eb69608db455649b0202ae",
+    "support.html": "bc3a48c5f3b6b88723459203623aef160c6527ee625176cc6f002f26e90930d0"
+  }
+}
