@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "gasto-cafe-hito2d",
+  "androidPackage": "com.enriquecj6.gastocafehito2d",
+  "sourceDigest": "3e999cd25c4bba57d4bbf1c5e41a9f15ef1cea61d24fb32d69a9f4064f04079b",
+  "files": {
+    "index.html": "5f8371f360523ba552a113be1ca56ddc8f0a6322f928a82a504a44783bbd7d6e",
+    "privacy.html": "47561715dad8f539392d14752dd21f7a8cfaa006c8c5221c6ebce6dc85cd3d55",
+    "terms.html": "9a6d38841f78bdda92052a1f3473d5515e448ec26bffc69136f3b89b67645d1f",
+    "support.html": "cd2a431c77b93f5f68b97896422ca9a8e42d13c5110589dd32bafcf49f977751"
+  }
+}
