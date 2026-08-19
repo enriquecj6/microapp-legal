@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "slug": "hito2-e2e-20260819",
+  "androidPackage": "com.enriquecj6.hito2e2e20260819",
+  "sourceDigest": "733a931f00280e8b3b04d76aedf8502ee51409abc0b52a6fbac6964ba34b359b",
+  "files": {
+    "index.html": "091c83f7fd1549e6fe03238c7e0606ac7590f02a907615e0b97f0b2f2bd5f624",
+    "privacy.html": "47d0912486320a45edf85dd754a63c78e8b1c20aa6ad5dd33212a8feb4629b25",
+    "terms.html": "608f0ce9ea6eb4e18936b365760f0e8ff4135f7116f36f3bce3cecf47f03dfc2",
+    "support.html": "18ab859f0237fc47668aaf6c06fabe85b8a5dee462f0b8da83e2098153475b7f"
+  }
+}
